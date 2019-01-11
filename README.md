@@ -1,4 +1,4 @@
-# APL-Highlighting
+# APL Component Highlighting
 
 ## Demonstration of using [APL (Alexa Presentation Language) documents](https://developer.amazon.com/docs/alexa-presentation-language/apl-overview.html) for horizontal and verticle lists with highlighting
 
